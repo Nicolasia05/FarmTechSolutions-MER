@@ -1,3 +1,6 @@
-/src/database.sql
-/model/data-model.xml
-/README.md
+FarmTech-Solutions-DER/  
+├── docs/  
+│   ├── modelo.dmd                 
+│   └── der.png                    
+├── README.md                     
+└── script.sql                     
